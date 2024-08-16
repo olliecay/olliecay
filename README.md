@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Ollie</h1>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1008861928375996567)](https://discord.com/users/1008861928375996567)
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1131703718803423415/1245156580660613212/image.png?ex=665efa2e&is=665da8ae&hm=9acd527ded38d0d175ece8ca5739c5d253a8eb1995e61adc86c773b4418d6a8f&=&format=webp&quality=lossless&width=720&height=369" alt="Main Image" draggable="false">
